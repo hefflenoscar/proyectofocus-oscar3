@@ -1,0 +1,25 @@
+.menu{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.menu li a{
+    display: block;
+    padding: 5px;
+    margin-bottom: 7px;
+}
+
+.menu li a.active{
+    color: var(--color-primary-dark);
+    text-decoration: underline;
+}
+
+@media only screen and (min-width: 48rem) {
+    .menu{
+        margin-left: 20px;
+        text-align: left;
+    }
+}

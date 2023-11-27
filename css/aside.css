@@ -1,0 +1,24 @@
+aside a img{
+    width: 30px;
+    
+}
+
+aside a {
+    color: black;
+    
+    margin-bottom: 30px;
+    
+}
+
+aside{
+    padding: 15px;
+    text-align: center;
+    font-size: 14px;
+    
+    
+}
+
+aside p{
+    text-decoration:none ;
+    
+}
